@@ -1,4 +1,6 @@
-# SmartBrain 
+# SmartBrain
+
+#Check the site out at https://face-detector-site.herokuapp.com/ or [here](https://face-detector-site.herokuapp.com/)
 
 1. Clone this repo
 2. Run `npm install`
